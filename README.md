@@ -13,6 +13,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Bootstrap](https://getbootstrap.com)
 
 ### 👨🏽‍💻 Autor
 ---
